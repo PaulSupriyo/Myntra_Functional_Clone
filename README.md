@@ -27,3 +27,10 @@ Adding Items: When a user browses through the catalog and selects an item, it's 
 View Bag: Users can view their shopping bag at any time. The bag page shows a summary of selected items, their prices, and quantities.
 Total Calculation: The total cost is calculated in real-time. Discounts are applied based on predefined criteria, such as item quantity or promotions.
 Checkout: While this clone focuses on the front-end experience, the checkout process can be expanded to integrate with back-end services for a complete e-commerce solution.
+
+
+
+Future Enhancements -
+Backend Integration: Incorporating a back-end service for managing user accounts, orders, and payment processing.
+Database Connectivity: Storing product details and user data in a database for a more robust and scalable application.
+Enhanced UI/UX: Further enhancing the 3D elements and animations for an even more immersive shopping experience.
